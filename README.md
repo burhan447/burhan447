@@ -1,6 +1,6 @@
 # Hi 👋, I'm Burhan
 
-🚀 Full Stack Developer | React • Next.js • Node.js • MongoDB • PosygresSQL    
+🚀 Full Stack Developer | React • Next.js • Node.js • MongoDB • PostgresSQL    
 💡 Passionate about building scalable, user-friendly web applications and AI-powered products
 
 ---
